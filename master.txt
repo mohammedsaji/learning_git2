@@ -1,1 +1,1 @@
-this file i stored inside master branch.
+this file is stored inside master branch.
